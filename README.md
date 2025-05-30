@@ -33,3 +33,7 @@ The site utilizes a dark-themed gradient background with animated textures to ad
 A smooth loading transition is also included, ensuring that users experience a polished and professional website from the moment they land on the page. The footer gently pulses with animation, giving a final touch of elegance to the overall design.
 
 In conclusion, this animated portfolio project is more than a personal website—it is a demonstration of technical capabilities in React and GSAP, design sensibility through Figma, and a commitment to user-centric experiences. It is a strong representation of both the functional and creative skills that define modern web development.
+
+OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/13cb5a76-0966-46ab-bfe8-9b6d963c7eeb)
